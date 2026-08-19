@@ -1,0 +1,30 @@
+* {
+  font-family: "Times New Roman";
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+body {
+  background-color: rgb(228, 228, 155);
+}
+
+#outer {
+  font-size: 25px;
+}
+
+#inner {
+  font-size: 10px;
+}
+
+#box {
+  background-color: rgb(207, 207, 244);
+}
+p {
+  font-weight: 100;
+  line-height: normal;
+  text-transform: none;
+}
