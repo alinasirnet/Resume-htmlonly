@@ -1,30 +1,24 @@
 * {
-  font-family: "Times New Roman";
+  padding: 0px;
+  margin: 0px;
+  color: white;
 }
 
-h1 {
-  color: red;
-  text-align: center;
-  text-transform: capitalize;
+#navbar {
+  background-color: black;
+  height: 50px;
 }
 
-body {
-  background-color: rgb(228, 228, 155);
+button {
+  background-color: rgb(56, 135, 135);
 }
 
-#outer {
+#logo {
+  color: rgb(56, 135, 135);
   font-size: 25px;
 }
 
-#inner {
-  font-size: 10px;
-}
-
-#box {
-  background-color: rgb(207, 207, 244);
-}
-p {
-  font-weight: 100;
-  line-height: normal;
-  text-transform: none;
+a {
+  margin-right: 100px;
+  text-decoration: none;
 }
