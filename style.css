@@ -1,51 +1,9 @@
-* {
-  padding: 0px;
-  margin: 0px;
-  color: white;
-}
-
-#navbar {
-  background-color: black;
-  height: 50px;
-}
-
-button {
-  background-color: rgb(56, 135, 135);
-}
-
-#logo {
-  color: rgb(56, 135, 135);
-  font-size: 25px;
-}
-
-a {
-  margin-right: 100px;
-  text-decoration: none;
-}
-
-#content > div {
-  height: 100px;
-  width: 100px;
-  border: 2px solid;
-}
-
-#first {
-  background-color: rgb(255, 0, 0, 0.5);
-}
-
-#second {
-  background-color: rgb(0, 255, 0, 0.75);
-}
-
-#third {
-  background-color: rgb(0, 0, 255, 1);
-}
-
-#content {
-  height: 300px;
-}
-
-footer {
-  background-color: aquamarine;
-  color: brown;
+div {
+  background-image: url(images/painting.jpg);
+  height: 400 px;
+  width: 300px;
+  position: fixed;
+  right: 0;
+  background-size: cover;
+  bottom: 0;
 }
